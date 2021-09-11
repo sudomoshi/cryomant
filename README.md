@@ -16,6 +16,6 @@
 
   
 [auth]: https://github.com/enforcd/auth-api-fixed
-[brute]: https://github.com/enforcd/bruteforcer
+[brute]: https://github.com/enforcd/discord-bruteforcer
 [youtube]: https://www.youtube.com/channel/UCU2rG-Pd80-8Zon5i-YOcUw
 [discord]: https://discord.com/users/768456422366117908
