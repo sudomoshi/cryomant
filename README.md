@@ -14,12 +14,6 @@
 <br />
 <br />
 
-<details>
-  <summary>more info</summary>
- 
- <!--START_SECTION:activity-->
- <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&show_icons=true&hide_border=true" />
-</details>
   
 [auth]: https://github.com/enforcd/auth-api-fixed
 [brute]: https://github.com/enforcd/bruteforcer
