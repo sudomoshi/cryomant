@@ -9,7 +9,7 @@
 
 ### Languages
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />]
+[<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />]
 
 <br />
 <br />
