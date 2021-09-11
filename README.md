@@ -8,8 +8,8 @@
 <br />
 
 ### Languages
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
-[<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][brute]
+[<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />][auth]
 
 <br />
 <br />
@@ -21,6 +21,7 @@
  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&show_icons=true&hide_border=true" />
 </details>
   
-
+[auth]: https://github.com/enforcd/auth-api-fixed
+[brute]: https://github.com/enforcd/bruteforcer
 [youtube]: https://www.youtube.com/channel/UCU2rG-Pd80-8Zon5i-YOcUw
 [discord]: https://discord.com/users/768456422366117908
