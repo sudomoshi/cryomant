@@ -14,6 +14,12 @@
 <br />
 <br />
 
+<details>
+  <summary>more info</summary>
+ 
+ <!--START_SECTION:activity-->
+ ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark)
+  
 
 [youtube]: https://www.youtube.com/channel/UCU2rG-Pd80-8Zon5i-YOcUw
 [discord]: https://discord.com/users/768456422366117908
