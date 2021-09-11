@@ -18,7 +18,8 @@
   <summary>more info</summary>
  
  <!--START_SECTION:activity-->
- ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark)
+ <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&show_icons=true&hide_border=true" />
+</details>
   
 
 [youtube]: https://www.youtube.com/channel/UCU2rG-Pd80-8Zon5i-YOcUw
