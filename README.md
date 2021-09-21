@@ -1,6 +1,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark)
-
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark)
+<img src="https://discord.c99.nl/widget/768456422366117908">
 
 ### Connections
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
