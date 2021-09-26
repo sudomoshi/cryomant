@@ -5,9 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace enforcd
@@ -28,6 +26,11 @@ namespace enforcd
             MessageBox.Show("My Discord: 768456422366117908");
                 
             
+        }
+        private void Bye(object sender, EventArgs e)
+        {
+            MessageBox.Show("The End");
+            Application.Exit();
         }
 
     }
