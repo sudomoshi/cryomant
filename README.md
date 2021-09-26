@@ -22,7 +22,7 @@ namespace enforcd
         private void AboutMe(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Location: United States"  + Enviornment.NewLine + "Languages: Python and C#" + Enviornment.NewLine + "Connetions: Discord");
+            MessageBox.Show("Location: United States"  + Enviornment.NewLine + "Languages: Python and C#");
             MessageBox.Show("My Discord: 768456422366117908");
                 
             
