@@ -8,7 +8,7 @@
 
 ### Languages
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][brute]
-[<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />][auth]
+[<img align="left" alt="CSharp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />][auth]
 
   
 [auth]: https://github.com/enforcd/auth-api-fixed
