@@ -11,8 +11,8 @@
 [<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />][auth]
 
 ### Learning
-[<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />][]
-[<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />][]
+<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
   
 [auth]: https://github.com/enforcd/auth-api-fixed
 [brute]: https://github.com/enforcd/bruteforcer
