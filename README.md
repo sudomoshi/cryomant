@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact) ![stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact)![stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark&show_icons=true)
 
 ### Connections
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
