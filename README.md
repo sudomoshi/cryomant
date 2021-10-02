@@ -1,8 +1,9 @@
 <p align="center">enforcd<p/>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact) <br />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact) 
 <p/>
+
 ![stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark&show_icons=true&layout=compact) 
 
 ### Connections
