@@ -10,6 +10,7 @@
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][brute]
 [<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />][auth]
 <br />
+
 <img src="https://github-profile-trophy.vercel.app/api/pin/?username=enforcd&margin-w=25&margin-h=25&column=7&theme=darkhub" />
 
 
