@@ -1,4 +1,3 @@
-<p align="center">enforcd<p/>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-5/768456422366117908.png"/>
  <p/>
