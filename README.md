@@ -1,5 +1,5 @@
 <p align="center">enforcd<p/>
-<img src="https://komarev.com/ghpvc/?username=enforcd&color=grey">
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact) 
 
