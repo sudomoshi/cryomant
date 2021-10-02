@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/768456422366117908.png"/>
+ <p/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact)<br />
 ![stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark&show_icons=true&layout=compact) 
