@@ -3,7 +3,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark&show_icons=true&layout=compact) 
 
 ### Connections
-[<img align="left" alt="YouTube" width="22px" src="https://lh3.googleusercontent.com/proxy/vbWDZ5xFxF1Jwzc6SfoLL2PyKey5Cgt7EPxtZXSJ5x_JO-ouz2x_hQw0UYv_GKS_WjoMxAk2fCmdyw4Nv-H4wmBBBwMvcyZdAtvFEVWMDKUY11XVmgGU0Ob4eALe9HlsBrei3VaoESlb81BBXATqJSxHrdabxFRBu8GhUc-k03ze7xU" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/791/PNG/512/YOUTUBE_icon-icons.com_65487.png" />][youtube]
 [<img align="left" alt="Discord" width="22px" src="https://cdn.icon-icons.com/icons2/2845/PNG/512/discord_logo_icon_181298.png" />][discord]
 <br />
 <br />
