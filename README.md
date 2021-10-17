@@ -1,5 +1,5 @@
 
-<p align="center"><img align="center" src="https://avatars.githubusercontent.com/u/74940277?s=400&u=7987fa4cea306256937b537af3d39e620be10db1&v=4"> <img/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact)<br />
 ![stats](https://github-readme-stats.vercel.app/api?username=enforcd&theme=dark&show_icons=true&layout=compact) 
