@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-     <a onclick=" window.open('https://discord.gg/matching', '_blank')"> <img src="https://icon-library.com/images/romance-icon/romance-icon-16.jpg" height="25"> </a>
+     <a href="https://discord.gg/matching" onclick=" window.open('https://discord.gg/matching', '_blank')"> <img src="https://icon-library.com/images/romance-icon/romance-icon-16.jpg" height="25"> </a>
      
  </p>
  
