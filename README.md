@@ -7,7 +7,7 @@
  </p>
  
 <p align="center">
-   <img src="https://media3.giphy.com/media/vMSXa7KFGx49aeeXhe/200.gif" width="200">
+   <img src="https://media3.giphy.com/media/vMSXa7KFGx49aeeXhe/200.gif" width="200" border: 2px solid #fff>
     img {
   border: 2px solid #fff
   }
