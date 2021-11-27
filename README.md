@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-     <img src="https://icon-library.com/images/love_hearts-512_110282.png" height="50">
+     <img src="https://icon-library.com/images/love_hearts-512_110282.png" height="25">
      
  </p>
  
