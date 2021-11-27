@@ -8,7 +8,9 @@
  
 <p align="center">
    <img src="https://media3.giphy.com/media/vMSXa7KFGx49aeeXhe/200.gif" width="200">
-  
+    img {
+  border: 2px solid #fff
+  }
 </p>
  <br/>
   
