@@ -1,28 +1,27 @@
-     
+<samp>Technologies</samp>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" alt="Python">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" alt="Java">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="20" alt="Cloudflare">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" alt="SQL">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" alt="C#">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" alt="C++">
+</span>
 
-<p align="center">
-  <br>
-  <samp>
-    untold
- </p>
- 
-<p align="center">
-   <img src="https://media3.giphy.com/media/vMSXa7KFGx49aeeXhe/200.gif" width="200">
-
-  
-</p>
-
-<br/>
-
-<p align="center">
-     <a href="https://discord.gg/matching" onclick=" window.open('https://discord.gg/matching', '_blank')"> <img src="https://icon-library.com/images/romance-icon/romance-icon-16.jpg" height="25"> </a>
-     
- </p>
- 
- <br/>
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact" /> <br />
-
-
-
-<br />
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact)
