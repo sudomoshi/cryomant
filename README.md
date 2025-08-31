@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="20" alt="Electron">
 </span>
 
-## Language Stats
+## <samp>Language Stats</samp>
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact)
 
 <p style="text-align: center;"><samp>Made with love</samp></p>
