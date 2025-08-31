@@ -1,5 +1,5 @@
-<samp>Technologies</samp>
-<br></br>
+<samp>Tech Stack</samp>
+<br>
 <span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" alt="Python">
 </span>
