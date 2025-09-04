@@ -34,9 +34,9 @@
 </span>
 
 ## <samp>Stats</samp>
-<img src="https://github-readme-stats.vercel.app/api?username=enforcd&show_icons=true&theme=dark" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=cryomant&show_icons=true&theme=dark" alt="GitHub stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enforcd&theme=dark&layout=compact" alt="GitHub Language Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryomant&theme=dark&layout=compact" alt="GitHub Language Stats" />
 
 
 <p style="text-align: center;"><samp>Made with love</samp></p>
