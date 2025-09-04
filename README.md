@@ -1,4 +1,4 @@
-## <samp>Technologies</samp>
+##Technologies
 <span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" alt="Python">
 </span>
@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="20" alt="Electron">
 </span>
 
-## <samp>Stats</samp>
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=cryomant&show_icons=true&theme=dark" alt="GitHub stats" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryomant&theme=dark&layout=compact" alt="GitHub Language Stats" />
