@@ -1,10 +1,6 @@
 ## Technologies
 <span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" alt="Python">
-</span>
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" alt="Java">
-</span>
 <span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js">
 </span>
@@ -34,9 +30,9 @@
 </span>
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=cryomant&show_icons=true&theme=dark" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudomoshi&show_icons=true&theme=dark" alt="GitHub stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryomant&theme=dark&layout=compact" alt="GitHub Language Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudomoshi&theme=dark&layout=compact" alt="GitHub Language Stats" />
 
 
 <p style="text-align: center;"><samp>Made with love</samp></p>
