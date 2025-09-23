@@ -14,9 +14,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" alt="C#">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React">
-</span>
-<span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" alt="C++">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
